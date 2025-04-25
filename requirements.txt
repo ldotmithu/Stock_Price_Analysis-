@@ -1,0 +1,6 @@
+pandas 
+yfinance
+groq
+dotenv
+pypdf
+-e .
