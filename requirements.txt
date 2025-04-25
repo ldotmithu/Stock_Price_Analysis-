@@ -3,4 +3,7 @@ yfinance
 groq
 dotenv
 pypdf
+requests 
+streamlit
+matplotlib
 -e .
